@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Tim
-- 👀 I’m interested in quite a lot
+- 👀 I’m interested in quite a lot in the computing ecosystem, don't get me started on emojis!;
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on various projects
 - 📫 Reach me via @ShikaliT on twitter

@@ -1,4 +1,4 @@
-- i'm Tim, adventure of the web, maker of files.
+- I'm Tim, adventure of the web, maker of files.
 - 
 
 <!---

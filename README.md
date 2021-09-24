@@ -1,5 +1,8 @@
-- I'm Tim, adventure of the web, maker of files.
-- 
+# I'm Tim, adventure of the web, maker of files.
+# my bucket 2021 :
+- [ ] workflows in yml
+- [ ] android applications that call a resource in the internet(web apps)
+- [x] source control using git
 
 <!---
 NamesTim/NamesTim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

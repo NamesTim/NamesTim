@@ -1,7 +1,7 @@
 # I'm Tim, adventure of the web, maker of files.
 # my bucket of things to learn in [current year] :
 - [ ] workflows in yml
-- [x] android applications that call a resource in the internet(web apps)
+- [x] android applications that call a resource in the internet(PWAs/webkit)
 - [x] source control using git
 
 <!---

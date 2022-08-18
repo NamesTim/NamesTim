@@ -1,1 +1,2 @@
-# I'm Tim, I know my way around the web.
+# I'm Tim, my career is based around web technologies. 
+## I'm a minimalist.

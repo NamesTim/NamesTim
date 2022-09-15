@@ -1,3 +1,3 @@
-# I'm Tim, I most;y practice and build web applications. 
-## I also practice minimalism.
+# I'm Tim, I practice and build web applications. 
+## I am something of a minimalist
 

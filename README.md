@@ -1,4 +1,2 @@
-# I'm Tim, I practice and build web applications. 
-
-## I am something of a minimalist.
+# I'm Tim, I build web applications and like to analyze different algorithms.
 

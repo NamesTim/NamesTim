@@ -1,2 +1,1 @@
-# I'm Tim, I build web applications and like to play around with bytes.
-#### ~ *creativity is subtraction*, Kleon.
+# Hello visitor, on this github page you will find repositories ranging from general application progrmmind to low level electronics projects. I do web applications programming to keep the lights on. 

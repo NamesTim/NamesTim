@@ -1,1 +1,4 @@
-# Hello visitor, on this github page you will find repositories ranging from general application progrmmind to low level electronics projects. I do web applications programming to keep the lights on. 
+# Hello visitor, 
+Here you will find projects I am working on and have worked on in the past.
+
+
